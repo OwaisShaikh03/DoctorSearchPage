@@ -14,7 +14,7 @@ $result=$conn->query($sql) ;
 
 if($result->num_rows > 0)
 {
-    $data='<div class="rdsectioninfo">doctors found in your area</div>';
+    $data='<div class="rdsectioninfo">doctors found </div>';
     $doctor_data="";
    while($row = $result->fetch_assoc()){
        $doctorid = $row["id"];
