@@ -1,7 +1,7 @@
 <?php
 $search_param= $_POST["search"];
 //$search_area= $_POST["area"];
-
+if(isset($_POST["search"])){
 $host= "localhost";
 $dbuser= "id20473941_root";
 $dbpass= "Maahid@2011@";
@@ -38,7 +38,10 @@ if($result->num_rows > 0)
     }
 
 }else{
-    $data='<div class="rdsectioninfo">No doctor found in area</div>';
+    $data='<div class="rdsectioninfo"><h1>No doctor found in area</h1></div>';
+}
+}else{
+  $data='<div class="rdsectioninfo"><h1>Bad Query</h1></div>';
 }
 
 $data = $data.$doctor_data;

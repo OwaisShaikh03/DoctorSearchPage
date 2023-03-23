@@ -353,7 +353,7 @@
 .finddoc3rdsec {
   position: relative;
   top: 50px;
-  float: right;
+  float: left;
   width: 282px;
 }
 .find-your-doctor {
@@ -367,7 +367,6 @@
 .finddoc3rdsec {
   height: 259px;
   text-align: center;
-  right: 300px;
 }
 .appointmenticon {
   position: absolute;
@@ -397,10 +396,16 @@
   width: 242px;
   height: 96px;
 }
-.appointment3rdsec,
+.appointment3rdsec{
+  position: absolute;
+  top: 50px;
+  left: 544px;
+  width: 242px;
+  height: 259px;
+}
 .consultationicon {
   position: absolute;
-  top: 0;
+  top: 0px;
   left: 544px;
   width: 242px;
   height: 259px;
@@ -433,7 +438,7 @@
 }
 .concultation3rdsec {
   position: absolute;
-  top: 0;
+  top: 50px;
   left: 1048px;
   width: 251px;
   height: 259px;
