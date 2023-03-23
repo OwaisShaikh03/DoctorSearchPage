@@ -1,0 +1,4 @@
+<div class="searchareasec">
+              <div class="searchareasec-child"></div>
+              <input class="area" type="text" placeholder="Area.." />
+            </div>

@@ -1,0 +1,464 @@
+.desktop-1-child {
+  position: absolute;
+  top: 258px;
+  left: 683px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.span {
+  color: var(--color-darkorange);
+}
+.p {
+  margin: 0;
+}
+.healthcare-partner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 249px;
+  height: 85px;
+}
+.patient-helped {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.k-patient-helped-container {
+  position: absolute;
+  top: 4px;
+  left: 304px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 249px;
+  height: 81px;
+}
+.ndintro {
+  position: absolute;
+  top: 466px;
+  left: 40px;
+  width: 553px;
+  height: 85px;
+}
+.connect-patient-and-container,
+.healthcare-connect-hundreds {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 493px;
+  height: 231px;
+}
+.healthcare-connect-hundreds {
+  top: 231px;
+  font-size: var(--font-size-xl);
+  color: #fffefe;
+  width: 451px;
+  height: 59px;
+}
+.stintro {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  width: 493px;
+  height: 290px;
+  text-align: left;
+  font-size: 64px;
+}
+.bannersectionarea {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 703px;
+  height: 578px;
+}
+.search-service {
+  border: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  color: #9c9c9c;
+  text-align: left;
+}
+.searchinputsec {
+  position: absolute;
+  top: 11px;
+  left: 36px;
+  width: 175px;
+  height: 57px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.search-fill0-wght400-grad0-ops-icon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.searchbtnsec {
+  cursor: pointer;
+  border: 0;
+  padding: 0 65px;
+  background-color: var(--color-sandybrown);
+  position: absolute;
+  top: 11px;
+  left: 383px;
+  border-radius: var(--br-31xl);
+  width: 179px;
+  height: 57px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+}
+.searchareasec-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 143px;
+  height: 57px;
+}
+.area {
+  border: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  top: 17px;
+  left: 15px;
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  color: #9f9f9f;
+  text-align: left;
+}
+.area,
+.formsearechsec,
+.searchareasec {
+  position: absolute;
+}
+.searchareasec {
+  top: 11px;
+  left: 228px;
+  width: 143px;
+  height: 57px;
+}
+.formsearechsec {
+  top: 354px;
+  left: 65px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 571px;
+  height: 79px;
+}
+.banner,
+.formsection {
+  position: absolute;
+  left: 0;
+  height: 578px;
+}
+.formsection {
+  top: 0;
+  width: 702.98px;
+}
+.banner {
+  top: 77px;
+  background-color: #406d50;
+  width: 1428px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.imagebg,
+.thumb-concept-12-1-icon {
+  position: absolute;
+  top: 0;
+  height: 480px;
+}
+.imagebg {
+  left: -23px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-sandybrown);
+  width: 674px;
+}
+.thumb-concept-12-1-icon {
+  left: 170px;
+  width: 427px;
+  object-fit: cover;
+}
+.professional-health-workers-container {
+  position: absolute;
+  top: 189px;
+  left: -23px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 193px;
+  height: 108px;
+}
+.imageinfo {
+  position: absolute;
+  top: 58px;
+  left: 73px;
+  width: 598px;
+  height: 480px;
+}
+.image-section,
+.logo-text {
+  position: absolute;
+  top: 77px;
+  left: 703px;
+  width: 725px;
+  height: 578px;
+  text-align: left;
+}
+.logo-text {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 25.05px;
+  left: 7.8px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  color: var(--color-sandybrown);
+  text-align: center;
+  display: inline-block;
+  width: 175px;
+  height: 34px;
+}
+.logo-section {
+  position: absolute;
+  top: 1.95px;
+  left: 143.2px;
+  width: 191.27px;
+  height: 79.05px;
+}
+.aboutbtn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 29px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 27.33px;
+}
+.homebtn {
+  left: 78.11px;
+  width: 69.1px;
+}
+.homebtn,
+.servicesbtn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 29px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 27.33px;
+}
+.aboutbtn {
+  left: 212.11px;
+  width: 80.11px;
+}
+.servicesbtn {
+  left: 357.11px;
+  width: 112.16px;
+}
+.loginbg-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  width: 159px;
+  height: 53.67px;
+}
+.loginbtn {
+  position: absolute;
+  top: 12.39px;
+  left: 49px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray);
+  text-align: center;
+}
+.loginpart {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 16px;
+  left: 534.11px;
+  width: 159px;
+  height: 53.67px;
+}
+.navbar,
+.navbarsection {
+  position: absolute;
+  top: 0;
+}
+.navbarsection {
+  left: 635.89px;
+  width: 721.01px;
+  height: 79.05px;
+}
+.navbar {
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1428px;
+  height: 77px;
+}
+.bestdoctoricom-icon {
+  position: absolute;
+  top: 0;
+  left: 97px;
+  border-radius: var(--br-81xl);
+  width: 88px;
+  height: 84px;
+  object-fit: cover;
+}
+.find-best-doctors-container {
+  position: absolute;
+  top: 104px;
+  left: 38px;
+  letter-spacing: 0.01em;
+  display: inline-block;
+  width: 206px;
+  height: 39px;
+}
+.find-your-doctor,
+.finddoc3rdsec {
+  position: absolute;
+  left: 0;
+  width: 282px;
+}
+.find-your-doctor {
+  top: 163px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.01em;
+  text-align: center;
+  display: inline-block;
+  height: 82px;
+}
+.finddoc3rdsec {
+  top: 0;
+  height: 259px;
+  text-align: left;
+}
+.appointmenticon {
+  position: absolute;
+  top: 0;
+  left: 76px;
+  border-radius: var(--br-81xl);
+  width: 90px;
+  height: 84px;
+  object-fit: cover;
+}
+.ask-for-an,
+.get-appointment {
+  position: absolute;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.get-appointment {
+  top: 100px;
+  left: 22px;
+  width: 198px;
+  height: 47px;
+}
+.ask-for-an {
+  top: 163px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  width: 242px;
+  height: 96px;
+}
+.appointment3rdsec,
+.consultationicon {
+  position: absolute;
+  top: 0;
+  left: 544px;
+  width: 242px;
+  height: 259px;
+}
+.consultationicon {
+  left: 81px;
+  border-radius: var(--br-81xl);
+  width: 90px;
+  height: 84px;
+  object-fit: cover;
+}
+.find-your-doctor1,
+.happy-consultations {
+  position: absolute;
+  letter-spacing: 0.01em;
+  display: inline-block;
+}
+.happy-consultations {
+  top: 109px;
+  left: 0;
+  width: 251px;
+  height: 27px;
+}
+.find-your-doctor1 {
+  top: 161px;
+  left: 5px;
+  font-size: var(--font-size-xl);
+  width: 241px;
+  height: 84px;
+}
+.concultation3rdsec {
+  position: absolute;
+  top: 0;
+  left: 1048px;
+  width: 251px;
+  height: 259px;
+}
+.rdsection,
+.rdsectioninfo {
+  position: absolute;
+  left: 0;
+  width: 1426px;
+}
+.rdsectioninfo {
+  top: 2px;
+  height: 367px;
+}
+.rdsection {
+  top: 655px;
+  height: 369px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
