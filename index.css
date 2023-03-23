@@ -351,8 +351,9 @@
 }
 .find-your-doctor,
 .finddoc3rdsec {
-  position: absolute;
-  left: 0;
+  position: relative;
+  top: 50px;
+  float: right;
   width: 282px;
 }
 .find-your-doctor {
@@ -364,9 +365,9 @@
   height: 82px;
 }
 .finddoc3rdsec {
-  top: 0;
   height: 259px;
-  text-align: left;
+  text-align: center;
+  right: 300px;
 }
 .appointmenticon {
   position: absolute;

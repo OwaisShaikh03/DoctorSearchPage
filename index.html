@@ -135,14 +135,14 @@
     </div>
   </body>
   <script>
-    $(document).ready(function(){
-      $("#search_btn").click(function(){
-        var doctor_type=$("#doctor_type").val();
-        $.post("webservice1.php",{search: doctor_type}, function(response){
-          $("#searchsection").html(response);
-        });
+  $(document).ready(function () {
+    $("#search_btn").click(function (event) {
+      event.preventDefault();
+      var doctor_type = $("#doctor_type").val();
+      $.post("webservice1.php", { search: doctor_type }, function (response) {
+        $("#searchsection").html(response);
       });
-
     });
-  </script>
+  });
+</script>
 </html>
